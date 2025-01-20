@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productes> <!--Inici del apartat productes-->
+    <producte category="Televisor"> <!--Inici de descripcio de un producte dins productes-->
+        <codi>0001</codi>
+            <subcodi>3242</subcodi>
+        <Nom>Samsung Q70C QLED - 55”</Nom>
+        <Descripció>Resolución 4K, tecnología QLED, ideal para ver contenido HDR.</Descripció>
+        <Preu moneda="EUR">599,99</Preu>
+        <Disponibilitat>Esgotat</Disponibilitat>
+        <Imatge>https://storage.googleapis.com/catalog-pictures-carrefour-es/catalog/pictures/hd_510x_/8806094903737_1.jpg</Imatge>
+    </producte> <!--Fi de descripcio de un producte dins productes-->
+
+    <producte category="Mobils"> <!--Inici de descripcio de un producte dins productes-->
+        <codi>0010</codi>
+            <subcodi>2391</subcodi>
+        <Nom>iPhone 15 Pro Max</Nom>
+        <Descripció>Pantalla OLED, chip A17 Pro, cámara teleobjetivo 5x, diseño en titanio.</Descripció>
+        <Preu moneda="EUR">570,90</Preu>
+        <Disponibilitat>Esgotat</Disponibilitat>
+        <Imatge url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMGSH3sMaCziP1cXeBDFOeboJ-j17BVeqLw&amp;s"/>
+    </producte> <!--Fi de descripcio de un producte dins productes-->
+
+    <producte category="Portatils"> <!--Inici de descripcio de un producte dins productes-->
+        <codi>0011</codi>
+            <subcodi>9472</subcodi>
+        <Nom>Microsoft Surface Laptop Studio</Nom>
+        <Descripció>Pantalla táctil ajustable, procesadores Intel Core de 11ª o 12ª generación, perfecto para artistas digitales.</Descripció>
+        <Preu moneda="EUR">999,90</Preu>
+        <Disponibilitat>En stock</Disponibilitat>
+        <Imatge url="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBvfBQ7BBk-IlpW3SHQCg0PXl2Hb6EGaGzTQ&amp;s"/>
+    </producte> <!--Fi de descripcio de un producte dins productes-->
+</productes><!--Final del apartat productes-->

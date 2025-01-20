@@ -1,0 +1,101 @@
+{
+    "pokemons": [
+      {
+        "id": 257,
+        "nom": "Blaziken",
+        "tipus": ["Foc", "Lluita"],
+        "pes": "52,0 kg",
+        "altura": "1,9 m",
+        "estadistiques": {
+          "velocitat": 80,
+          "fortalesa": 120,
+          "precisió": 110,
+          "resistencia": 70
+        },
+        "moviments": [
+          {
+            "nom": "Atac Foc",
+            "descripció": "Ataca amb una flamarada intensa.",
+            "potencia": 85,
+            "contacte": true
+          },
+          {
+            "nom": "Patada Salvatge",
+            "descripció": "Una forta patada que pot fer retrocedir l'objectiu.",
+            "potencia": 90,
+            "contacte": true
+          }
+        ],
+        "imatge": "https://www.wikidex.net/wiki/Archivo:Blaziken.png",
+        "evolucions": [
+          {
+            "id": 256,
+            "nom": "Combusken",
+            "nivel": 16
+          },
+          {
+            "id": 255,
+            "nom": "Torchic",
+            "nivel": 1
+          }
+        ]
+      }
+    {
+        "id": 9,
+        "nom": "Blastoise",
+        "tipus": ["Aigua"],
+        "pes": "85,5 kg",
+        "altura": "1,6 m",
+        "estadistiques": {
+          "velocitat": 78,
+          "fortalesa": 83,
+          "precisió": 100,
+          "resistència": 100
+        },
+        "moviments": [
+          {
+            "nom": "Placatge",
+            "descripció": "Ataca físicament a l'oponent.",
+            "potència": 40,
+            "contacte": true
+          },
+          {
+            "nom": "Rompecoraza",
+            "descripció": "Redueix la defensa de l'oponent.",
+            "potència": 0,
+            "contacte": false
+          },
+          {
+            "nom": "Hidrobomba",
+            "descripció": "Atac especial de gran potència.",
+            "potència": 110,
+            "contacte": true
+          },
+          {
+            "nom": "Envit Aquàtic",
+            "descripció": "Atac físic de gran potència.",
+            "potència": 120,
+            "contacte": true
+          }
+        ],
+        "imatge": "https://www.pokemon.com/us/pokedex/blastoise",
+        "evolucions": [
+          {
+            "id": 7,
+            "nom": "Squirtle",
+            "nivell": 1
+          },
+          {
+            "id": 8,
+            "nom": "Wartortle",
+            "nivell": 16
+          },
+          {
+            "id": 9,
+            "nom": "Blastoise",
+            "nivell": 36
+          }
+        ]
+    }
+]
+}
